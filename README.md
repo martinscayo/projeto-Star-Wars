@@ -1,4 +1,4 @@
-Personagens de Star Wars
+Personagens de Star Wars.
 Este projeto é uma aplicação React que consome a API SWAPI (Star Wars API) para listar personagens da saga Star Wars. É possível navegar entre páginas e realizar buscas por nome de personagem.
 
 🔧 Como clonar o repositório
